@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573030169 source:e:\programme\purana_aashiq\taare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
